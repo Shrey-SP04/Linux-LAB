@@ -16,9 +16,12 @@ sap id-590026387
 - Explain original vs. new behavior and show example
 
 - 
+![WhatsApp Image 2025-11-06 at 10 48 55_3ff7bfae](https://github.com/user-attachments/assets/6dde48fe-33f5-4ead-ad5e-c54d1a31ef5d)
 
 
-![alt text](<Screenshot 2025-09-09 165319.png>)
+![WhatsApp Image 2025-11-06 at 10 49 42_7e3eed7c](https://github.com/user-attachments/assets/617771de-4a34-4eeb-9278-b7009129f93d)
+
+
 
 ## **🔄Question -Original vs. Enhanced Behavior**
 1. Input Handling
@@ -41,7 +44,8 @@ New: Validates the step value to ensure it’s positive. If the user enters 0 or
 
 ## ▶️ Question - Example run with different inputs.
 
-![alt text](<Screenshot 2025-09-09 165413.png>)
+![WhatsApp Image 2025-11-06 at 10 49 55_d29a29d7](https://github.com/user-attachments/assets/f2b943cd-d93c-46d9-a118-52e8a515f307)
+
 
 ## ❓ **Extra Questions**
 
