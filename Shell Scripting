@@ -16,7 +16,7 @@ Shell scripting allows you to **automate tasks** in Linux/Unix by writing comman
 #!/bin/bash
 echo "Hello, World!"
 ```
-![alt text](image-1.png)
+"C:\Users\LENOVO\Downloads\image-1.png"
 Run it:
 
 ```bash
@@ -29,7 +29,7 @@ Output:
 ```
 Hello, World!
 ```
-![alt text](image.png)
+"C:\Users\LENOVO\Downloads\image (1).png"
 ---
 
 ## 2. 🔹 Variables
@@ -54,9 +54,8 @@ echo "My name is $name and I am $age years old."
 Output:
 
 ```
-My name is Rishabh Negi and I am 18 years old.
+My name is Shreyas Parida and I am 18 years old.
 ```
-![alt text](image-2.png)
 ### Environment variables
 
 ```bash
@@ -77,7 +76,7 @@ echo "Enter your favorite language:"
 read lang
 echo "You chose $lang"
 ```
-![alt text](image-3.png)
+"C:\Users\LENOVO\Downloads\image-3.png"
 ---
 
 ## 4. 🔹 Conditional Statements (if-else)
@@ -92,7 +91,7 @@ else
     echo "Number is less than or equal to 5"
 fi
 ```
-![alt text](image-4.png)
+"C:\Users\LENOVO\Downloads\image-4.png"
 Operators:
 
 * `-eq` (equal)
@@ -159,14 +158,14 @@ greet() {
     echo "Hello, $1"
 }
 
-greet Rishabh
+greet Shreyas
 greet World
 ```
-![alt text](image-5.png)
+
 Output:
 
 ```
-Hello, Rishabh
+Hello, Shreyas
 Hello, World
 ```
 ![alt text](image-6.png)
