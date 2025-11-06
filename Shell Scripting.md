@@ -16,7 +16,8 @@ Shell scripting allows you to **automate tasks** in Linux/Unix by writing comman
 #!/bin/bash
 echo "Hello, World!"
 ```
-"C:\Users\LENOVO\Downloads\image-1.png"
+<img width="560" height="72" alt="image" src="https://github.com/user-attachments/assets/70b56e55-eea1-4ef3-983c-cd314aa98557" />
+
 Run it:
 
 ```bash
@@ -29,7 +30,8 @@ Output:
 ```
 Hello, World!
 ```
-"C:\Users\LENOVO\Downloads\image (1).png"
+<img width="572" height="158" alt="image" src="https://github.com/user-attachments/assets/6ae0f477-be53-4ae2-8e14-8f421613537a" />
+
 ---
 
 ## 2. 🔹 Variables
@@ -76,7 +78,8 @@ echo "Enter your favorite language:"
 read lang
 echo "You chose $lang"
 ```
-"C:\Users\LENOVO\Downloads\image-3.png"
+<img width="590" height="116" alt="image" src="https://github.com/user-attachments/assets/ff9a8497-6626-4684-b9f0-f925b6eb6e65" />
+
 ---
 
 ## 4. 🔹 Conditional Statements (if-else)
@@ -91,7 +94,8 @@ else
     echo "Number is less than or equal to 5"
 fi
 ```
-"C:\Users\LENOVO\Downloads\image-4.png"
+<img width="587" height="61" alt="image" src="https://github.com/user-attachments/assets/13690599-f286-449d-8513-271ed600db23" />
+
 Operators:
 
 * `-eq` (equal)
@@ -161,6 +165,7 @@ greet() {
 greet Shreyas
 greet World
 ```
+<img width="236" height="111" alt="image" src="https://github.com/user-attachments/assets/04f2ffe1-af74-460e-a7ed-600426638240" />
 
 Output:
 
@@ -168,7 +173,9 @@ Output:
 Hello, Shreyas
 Hello, World
 ```
-![alt text](image-6.png)
+<img width="504" height="71" alt="image" src="https://github.com/user-attachments/assets/abeb33c8-d03e-48e6-a5bc-af6944a717d5" />
+
+
 ---
 
 ## 7. 🔹 Command Line Arguments
@@ -199,7 +206,8 @@ Second argument: banana
 All arguments: apple banana
 Number of arguments: 2
 ```
-![alt text](image-7.png)
+<img width="615" height="162" alt="image" src="https://github.com/user-attachments/assets/b24a69e0-c4ae-4992-876e-f038b6f811dd" />
+
 ---
 
 ## 8. 🔹 Arrays
